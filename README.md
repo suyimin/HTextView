@@ -1,6 +1,8 @@
 # HTextView
 Animation effects with custom font support to TextView
 
+A copy of https://github.com/hanks-zyh/HTextView.
+
 ![](https://img.shields.io/hexpm/l/plug.svg)
 ![](https://img.shields.io/badge/Platform-Android-brightgreen.svg)
 ![](https://img.shields.io/badge/Android-CustomView-blue.svg)
